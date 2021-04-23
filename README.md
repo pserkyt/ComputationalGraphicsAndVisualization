@@ -20,6 +20,6 @@ My approached remained the same: get the code working first, then clean, comment
 
 ## How can computer science help me in reaching my goals?
 ### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-
+The programming skills and knowledge gained from this course can be utilized in any future computer science courses.
 ### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
-
+Professionally, the knowledge and skills gained can be used in any programming career, especially jobs focused on computational graphics and visualizations.
