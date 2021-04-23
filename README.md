@@ -3,9 +3,9 @@ CS330 Southern New Hampshire University
 
 ## How do I approach designing software?
 ### What new design skills has your work on the project helped you to craft?
-
+This project helped reinforce my code organization skills, my OpenGL skills, and my cross-platform programming skills.
 ### What design process did you follow for your project work?
-
+Since the project required a Windows executable and Visual Studio 2019 solution files, and I only currently have a Mac, I started designing the application on my Mac. After I finished the project on my Mac, I uploaded it to the SNHU Virtual Lab where I created a Visual Studio 2019 solution, made a couple small changes to the code as necessary, then compiled. I then downloaded the Windows version of the project, zipped it up, and submitted it.
 ### How could tactics from your design approach be applied in future work?
 
 
