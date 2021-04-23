@@ -1,5 +1,7 @@
 # ComputationalGraphicsAndVisualization
-CS330 Southern New Hampshire University
+## CS330 Southern New Hampshire University
+### Final Project
+by Cameron Winningham aka Pserkyt
 
 ## How do I approach designing software?
 ### What new design skills has your work on the project helped you to craft?
