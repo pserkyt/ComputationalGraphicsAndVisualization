@@ -15,7 +15,7 @@ In previous OpenGL projects, I always used 3D models to represent objects in the
 ### How did iteration factor into your development?
 Since the project was submitted in iterations each week, it gave me plenty of time to focus on only what was required for that iteration such as textures or lighting.
 ### How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
+My approached remained the same: get the code working first, then clean, comment, and organize.
 
 ## How can computer science help me in reaching my goals?
 ### How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
